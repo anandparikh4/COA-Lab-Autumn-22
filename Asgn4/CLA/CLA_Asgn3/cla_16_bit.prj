@@ -1,0 +1,4 @@
+verilog work "LCU.v"
+verilog work "cla_4_bit_augmented.v"
+verilog work "cla_4_bit.v"
+verilog work "cla_16_bit.v"

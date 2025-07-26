@@ -1,0 +1,12 @@
+xst -intstyle ise -ifn "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/regfile/regfile/regfile.xst" -ofn "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/regfile/regfile/regfile.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-1 regfile.ngc regfile.ngd  
+map -intstyle ise -p xc7a100t-csg324-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o regfile_map.ncd regfile.ngd regfile.pcf 
+xst -intstyle ise -ifn "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/regfile/regfile/regfile.xst" -ofn "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/regfile/regfile/regfile.syr" 
+par -w -intstyle ise -ol high -mt off regfile_map.ncd regfile.ncd regfile.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-1 regfile.ngc regfile.ngd  
+map -intstyle ise -p xc7a100t-csg324-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o regfile_map.ncd regfile.ngd regfile.pcf 
+xst -intstyle ise -ifn "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/regfile/regfile/regfile.xst" -ofn "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/regfile/regfile/regfile.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-1 regfile.ngc regfile.ngd  
+map -intstyle ise -p xc7a100t-csg324-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o regfile_map.ncd regfile.ngd regfile.pcf 
+par -w -intstyle ise -ol high -mt off regfile_map.ncd regfile.ncd regfile.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml regfile.twx regfile.ncd -o regfile.twr regfile.pcf 

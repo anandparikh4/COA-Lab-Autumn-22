@@ -1,0 +1,53 @@
+ISim log file
+Running: C:\Users\Admin\Desktop\Sem 5\COA Lab\Processor\KGP_RISC\KGP_RISC_PROCESSOR\top_test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/KGP_RISC_PROCESSOR/top_test_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+ Block Memory Generator CORE Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator CORE Generator module top_test.uut.instruction_memory.inst.\native_mem_module.blk_mem_gen_v7_3_inst  is using a behavioral model for simulation which will not precisely model memory collision behavior.
+ Block Memory Generator CORE Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator CORE Generator module top_test.uut.data_memory.inst.\native_mem_module.blk_mem_gen_v7_3_inst  is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Finished circuit initialization process.
+                  20	out=         0
+                 150	out=         3
+                 170	out=         6
+                 170	out=         4
+                 190	out=         8
+                 190	out=         0
+                 210	out=         1
+                 230	out=         0
+                 250	out=         1
+                 270	out=         0
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+ Block Memory Generator CORE Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator CORE Generator module top_test.uut.instruction_memory.inst.\native_mem_module.blk_mem_gen_v7_3_inst  is using a behavioral model for simulation which will not precisely model memory collision behavior.
+ Block Memory Generator CORE Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator CORE Generator module top_test.uut.data_memory.inst.\native_mem_module.blk_mem_gen_v7_3_inst  is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Finished circuit initialization process.
+                  20	out=         0
+                 150	out=         3
+                 170	out=         6
+                 170	out=         4
+                 190	out=         8
+                 190	out=         0
+                 210	out=         1
+                 230	out=         0
+                 250	out=         1
+                 270	out=         0

@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/KGP_RISC_PROCESSOR/alu.xst" -ofn "C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/KGP_RISC_PROCESSOR/alu.syr" 
+xst -intstyle ise -ifn "C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/KGP_RISC_PROCESSOR/alu.xst" -ofn "C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/KGP_RISC_PROCESSOR/alu.syr" 
+xst -intstyle ise -ifn "C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/KGP_RISC_PROCESSOR/alu.xst" -ofn "C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/KGP_RISC_PROCESSOR/alu.syr" 

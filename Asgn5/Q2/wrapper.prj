@@ -1,0 +1,4 @@
+verilog work "dff.v"
+verilog work "clock_divider.v"
+verilog work "add_by_one_optimized_CLA.v"
+verilog work "wrapper.v"

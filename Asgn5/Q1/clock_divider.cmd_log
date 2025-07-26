@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/clock_divider.xst" -ofn "D:/ISE/assgn5/Q1/clock_divider.syr" 

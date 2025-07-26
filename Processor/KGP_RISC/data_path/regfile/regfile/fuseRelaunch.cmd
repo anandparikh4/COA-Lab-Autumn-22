@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/regfile/regfile/regfile_test_isim_beh.exe" -prj "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/regfile/regfile/regfile_test_beh.prj" "work.regfile_test" "work.glbl" 

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Admin/Desktop/Sem 5/COA Lab/Assignment 5/KGP_RISC/data_path/alu/complement.xst" -ofn "C:/Users/Admin/Desktop/Sem 5/COA Lab/Assignment 5/KGP_RISC/data_path/alu/complement.syr" 

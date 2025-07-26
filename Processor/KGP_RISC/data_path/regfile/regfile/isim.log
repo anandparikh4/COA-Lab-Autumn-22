@@ -1,0 +1,114 @@
+ISim log file
+Running: C:\Users\SHIVANI\Desktop\Processor\KGP_RISC\data_path\regfile\regfile\regfile_test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/regfile/regfile/regfile_test_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   0	clk=0	rst=0	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         x	read_data2=         x
+                  10	clk=1	rst=0	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         x	read_data2=         x
+                  20	clk=0	rst=0	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         x	read_data2=         x
+                  30	clk=1	rst=0	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         x	read_data2=         x
+                  40	clk=0	rst=0	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         x	read_data2=         x
+                  50	clk=1	rst=0	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         x	read_data2=         x
+                  60	clk=0	rst=0	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         x	read_data2=         x
+                  70	clk=1	rst=0	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         x	read_data2=         x
+                  80	clk=0	rst=0	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         x	read_data2=         x
+                  90	clk=1	rst=0	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         x	read_data2=         x
+                 100	clk=0	rst=1	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         x	read_data2=         x
+                 110	clk=1	rst=1	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         0	read_data2=         0
+                 120	clk=0	rst=1	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         0	read_data2=         0
+                 130	clk=1	rst=1	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         0	read_data2=         0
+                 140	clk=0	rst=1	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         0	read_data2=         0
+                 150	clk=1	rst=1	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         0	read_data2=         0
+                 160	clk=0	rst=1	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         0	read_data2=         0
+                 170	clk=1	rst=1	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         0	read_data2=         0
+                 180	clk=0	rst=1	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         0	read_data2=         0
+                 190	clk=1	rst=1	write_data=         0	write_reg= 0	reg_write=0	read_reg1= 0	read_reg2= 0	read_data1=         0	read_data2=         0
+                 200	clk=0	rst=0	write_data=        35	write_reg=12	reg_write=1	read_reg1=12	read_reg2= 1	read_data1=         0	read_data2=         0
+                 210	clk=1	rst=0	write_data=        35	write_reg=12	reg_write=1	read_reg1=12	read_reg2= 1	read_data1=        35	read_data2=         0
+                 220	clk=0	rst=0	write_data=        35	write_reg=12	reg_write=1	read_reg1=12	read_reg2= 1	read_data1=        35	read_data2=         0
+                 230	clk=1	rst=0	write_data=        35	write_reg=12	reg_write=1	read_reg1=12	read_reg2= 1	read_data1=        35	read_data2=         0
+                 240	clk=0	rst=0	write_data=        35	write_reg=12	reg_write=1	read_reg1=12	read_reg2= 1	read_data1=        35	read_data2=         0
+                 250	clk=1	rst=0	write_data=        35	write_reg=12	reg_write=1	read_reg1=12	read_reg2= 1	read_data1=        35	read_data2=         0
+                 260	clk=0	rst=0	write_data=        35	write_reg=12	reg_write=1	read_reg1=12	read_reg2= 1	read_data1=        35	read_data2=         0
+                 270	clk=1	rst=0	write_data=        35	write_reg=12	reg_write=1	read_reg1=12	read_reg2= 1	read_data1=        35	read_data2=         0
+                 280	clk=0	rst=0	write_data=        35	write_reg=12	reg_write=1	read_reg1=12	read_reg2= 1	read_data1=        35	read_data2=         0
+                 290	clk=1	rst=0	write_data=        35	write_reg=12	reg_write=1	read_reg1=12	read_reg2= 1	read_data1=        35	read_data2=         0
+                 300	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 310	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 320	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 330	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 340	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 350	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 360	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 370	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 380	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 390	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 400	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 410	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 420	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 430	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 440	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 450	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 460	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 470	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 480	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 490	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 500	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 510	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 520	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 530	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 540	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 550	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 560	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 570	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 580	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 590	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 600	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 610	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 620	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 630	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 640	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 650	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 660	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 670	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 680	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 690	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 700	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 710	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 720	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 730	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 740	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 750	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 760	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 770	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 780	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 790	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 800	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 810	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 820	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 830	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 840	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 850	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 860	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 870	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 880	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 890	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 900	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 910	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 920	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 930	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 940	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 950	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 960	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 970	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 980	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                 990	clk=1	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0
+                1000	clk=0	rst=0	write_data=         9	write_reg= 8	reg_write=1	read_reg1=12	read_reg2= 3	read_data1=        35	read_data2=         0

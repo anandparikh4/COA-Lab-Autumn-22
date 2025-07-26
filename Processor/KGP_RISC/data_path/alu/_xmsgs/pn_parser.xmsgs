@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/data_path/alu/AND.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/data_path/alu/LCU_16_to_32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/data_path/alu/LCU_4_to_16.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/data_path/alu/SL.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/data_path/alu/SRA.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/data_path/alu/SRL.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/data_path/alu/XOR.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/data_path/alu/adder.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/data_path/alu/alu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/data_path/alu/cla_16_bit_augmented.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/data_path/alu/cla_4_bit_augmented.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/data_path/alu/complement.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Admin/Desktop/Sem 5/COA Lab/Processor/KGP_RISC/data_path/alu/diff.v&quot; into library work</arg>
+</msg>
+
+</messages>
+

@@ -1,0 +1,39 @@
+xst -intstyle ise -ifn "C:/Users/SHIVANI/Desktop/COA Lab/assgn5/Q1/wrapper.xst" -ofn "C:/Users/SHIVANI/Desktop/COA Lab/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "C:/Users/SHIVANI/Desktop/COA Lab/assgn5/Q1/wrapper.xst" -ofn "C:/Users/SHIVANI/Desktop/COA Lab/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "C:/Users/SHIVANI/Desktop/COA Lab/assgn5/Q1/wrapper.xst" -ofn "C:/Users/SHIVANI/Desktop/COA Lab/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "C:/Users/SHIVANI/Desktop/COA Lab/assgn5/Q1/wrapper.xst" -ofn "C:/Users/SHIVANI/Desktop/COA Lab/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "C:/Users/SHIVANI/Desktop/COA Lab/assgn5/Q1/wrapper.xst" -ofn "C:/Users/SHIVANI/Desktop/COA Lab/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-1 wrapper.ngc wrapper.ngd  
+map -intstyle ise -p xc7a100t-csg324-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o wrapper_map.ncd wrapper.ngd wrapper.pcf 
+par -w -intstyle ise -ol high -mt off wrapper_map.ncd wrapper.ncd wrapper.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml wrapper.twx wrapper.ncd -o wrapper.twr wrapper.pcf 
+xst -intstyle ise -ifn "C:/Users/SHIVANI/Downloads/assgn5/Q1/wrapper.xst" -ofn "C:/Users/SHIVANI/Downloads/assgn5/Q1/wrapper.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-1 wrapper.ngc wrapper.ngd  
+map -intstyle ise -p xc7a100t-csg324-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o wrapper_map.ncd wrapper.ngd wrapper.pcf 
+par -w -intstyle ise -ol high -mt off wrapper_map.ncd wrapper.ncd wrapper.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml wrapper.twx wrapper.ncd -o wrapper.twr wrapper.pcf 
+xst -intstyle ise -ifn "C:/Users/SHIVANI/Downloads/assgn5/Q1/wrapper.xst" -ofn "C:/Users/SHIVANI/Downloads/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "C:/Users/SHIVANI/Downloads/assgn5/Q1/wrapper.xst" -ofn "C:/Users/SHIVANI/Downloads/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "C:/Users/SHIVANI/Downloads/assgn5/Q1/wrapper.xst" -ofn "C:/Users/SHIVANI/Downloads/assgn5/Q1/wrapper.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-1 wrapper.ngc wrapper.ngd  
+map -intstyle ise -p xc7a100t-csg324-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o wrapper_map.ncd wrapper.ngd wrapper.pcf 
+par -w -intstyle ise -ol high -mt off wrapper_map.ncd wrapper.ncd wrapper.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml wrapper.twx wrapper.ncd -o wrapper.twr wrapper.pcf 
+xst -intstyle ise -ifn "C:/Users/SHIVANI/Downloads/assgn5/Q1/wrapper.xst" -ofn "C:/Users/SHIVANI/Downloads/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 
+xst -intstyle ise -ifn "D:/ISE/assgn5/Q1/wrapper.xst" -ofn "D:/ISE/assgn5/Q1/wrapper.syr" 

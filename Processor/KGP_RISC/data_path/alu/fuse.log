@@ -1,0 +1,43 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/alu_test_isim_beh.exe -prj C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/alu_test_beh.prj work.alu_test work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/LCU_4_to_16.v" into library work
+Analyzing Verilog file "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/cla_4_bit_augmented.v" into library work
+Analyzing Verilog file "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/LCU_16_to_32.v" into library work
+Analyzing Verilog file "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/cla_16_bit_augmented.v" into library work
+Analyzing Verilog file "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/adder.v" into library work
+Analyzing Verilog file "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/XOR.v" into library work
+Analyzing Verilog file "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/SRL.v" into library work
+Analyzing Verilog file "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/SRA.v" into library work
+Analyzing Verilog file "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/SL.v" into library work
+Analyzing Verilog file "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/diff.v" into library work
+Analyzing Verilog file "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/complement.v" into library work
+Analyzing Verilog file "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/AND.v" into library work
+Analyzing Verilog file "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/alu.v" into library work
+Analyzing Verilog file "C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/alu_test.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module cla_4_bit_augmented
+Compiling module LCU_4_to_16
+Compiling module cla_16_bit_augmented
+Compiling module LCU_16_to_32
+Compiling module adder
+Compiling module complement
+Compiling module SL
+Compiling module SRL
+Compiling module SRA
+Compiling module diff
+Compiling module AND
+Compiling module XOR
+Compiling module alu
+Compiling module alu_test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 15 Verilog Units
+Built simulation executable C:/Users/SHIVANI/Desktop/Processor/KGP_RISC/data_path/alu/alu_test_isim_beh.exe
+Fuse Memory Usage: 29744 KB
+Fuse CPU Usage: 359 ms
